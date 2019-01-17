@@ -1,33 +1,33 @@
-﻿Stadium_Name,Home_Team,home_team_abrv,indoor_flag,Lat,Lng,
-Arrowhead Stadium,Kansas City Chiefs,KC,FALSE,39.048889,-94.483889,
-Bank of America Stadium,Carolina Panthers,CAR,FALSE,35.225833,-80.852778,
-Broncos Stadium at Mile High,Denver Broncos,DEN,FALSE,39.743889,-105.02,
-CenturyLink Field,Seattle Seahawks,SEA,FALSE,47.5952,122.3316,
-Dignity Health Sports Park,Los Angeles Chargers,LAC,FALSE,33.864,-118.261,
-FedExField,Washington Redskins,WAS,FALSE,38.907778,-76.864444,
-FirstEnergy Stadium,Cleveland Browns,CLE,FALSE,41.506111,-81.699444,
-Gillette Stadium,New England Patriots,NE,FALSE,42.090944,-71.264344,
-Hard Rock Stadium,Miami Dolphins,MIA,FALSE,25.958056,-80.238889,
-Heinz Field,Pittsburgh Steelers,PIT,FALSE,40.446667,-80.015833,
-Lambeau Field,Green Bay Packers,GB,FALSE,44.501389,-88.062222,
-Levi's Stadium,San Francisco 49ers,SF,FALSE,37.403,-121.97,
-Lincoln Financial Field,Philadelphia Eagles,PHI,FALSE,39.900833,-75.1675,
-Los Angeles Memorial Coliseum,Los Angeles Rams,LAR,FALSE,34.014167, -118.287778,
-M&T Bank Stadium,Baltimore Ravens,BAL,FALSE,39.278056,-76.622778,
-MetLife Stadium,New York Jets,NYJ,FALSE,40.813528,-74.074361,
-MetLife Stadium,New York Giants,NYG,FALSE,40.813528,-74.074361,
-New Era Field,Buffalo Bills,BUF,FALSE,42.774,-78.787,
-Nissan Stadium,Tennessee Titans,TEN,FALSE,36.166389,-86.771389,
-Oakland-Alameda County Coliseum,Oakland Raiders,OAK,FALSE,37.751667,-122.200556,
-Paul Brown Stadium,Cincinnati Bengals,CIN,FALSE,39.095,-84.516,
-Raymond James Stadium,Tampa Bay Buccaneers,TB,FALSE,27.975833,-82.503333,
-Soldier Field,Chicago Bears,CHI,FALSE,41.8623,-87.6167,
-TIAA Bank Field,Jacksonville Jaguars,JAX,FALSE,30.323889,-81.6375,
-AT&T Stadium,Dallas Cowboys,DAL,TRUE,32.747778,-97.092778,
-Ford Field,Detroit Lions,DET,TRUE,42.34,-83.045556,
-Lucas Oil Stadium,Indianapolis Colts,IND,TRUE,39.760056,-86.163806,
-Mercedes-Benz Superdome,New Orlean Saints,NO,TRUE,29.950833,-90.081111,
-Mercedes-Benz Stadium,Atlanta Falcons,ATL,TRUE,33.755429,-84.401067,
-NRG Stadium,Houston Texans,HOU,TRUE,29.684722,-95.410833,
-State Farm Stadium,Arizona Cardinals,ARI,TRUE,33.5275,-112.2625,
-U.S. Bank Stadium,Minnesota Vikings,MIN,TRUE,44.974,-93.258,
+﻿Location,Indoor,Lat,Lng
+Arrowhead Stadium,FALSE,39.048889,-94.483889
+AT&T Stadium,TRUE,32.747778,-97.092778
+Bank of America Stadium,FALSE,35.225833,-80.852778
+Broncos Stadium at Mile High,FALSE,39.743889,-105.02
+CenturyLink Field,FALSE,47.5952,122.3316
+Dignity Health Sports Park,FALSE,33.864,-118.261
+FedEx Field,FALSE,38.907778,-76.864444
+FirstEnergy Stadium,FALSE,41.506111,-81.699444
+Ford Field,TRUE,42.34,-83.045556
+Gillette Stadium,FALSE,42.090944,-71.264344
+Hard Rock Stadium,FALSE,25.958056,-80.238889
+Heinz Field,FALSE,40.446667,-80.015833
+Lambeau Field,FALSE,44.501389,-88.062222
+Levi's Stadium,FALSE,37.403,-121.97
+Lincoln Financial Field,FALSE,39.900833,-75.1675
+Los Angeles Memorial Coliseum,FALSE,34.014167, -118.287778
+Lucas Oil Stadium,TRUE,39.760056,-86.163806
+M&T Bank Stadium,FALSE,39.278056,-76.622778
+Mercedes-Benz Stadium,TRUE,33.755429,-84.401067
+Mercedes-Benz Superdome,TRUE,29.950833,-90.081111
+MetLife Stadium,FALSE,40.813528,-74.074361
+New Era Field,FALSE,42.774,-78.787
+Nissan Stadium,FALSE,36.166389,-86.771389
+NRG Stadium,TRUE,29.684722,-95.410833
+Oakland-Alameda County Coliseum,FALSE,37.751667,-122.200556
+Paul Brown Stadium,FALSE,39.095,-84.516
+Raymond James Stadium,FALSE,27.975833,-82.503333
+Soldier Field,FALSE,41.8623,-87.6167
+State Farm Stadium,TRUE,33.5275,-112.2625
+TIAA Bank Field,FALSE,30.323889,-81.6375
+US Bank Stadium,TRUE,44.974,-93.258
+Wembley Stadium,FALSE,51.555833,-0.279722
